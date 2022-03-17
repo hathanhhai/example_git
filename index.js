@@ -34,7 +34,7 @@ app.get('/color', (req, res) => {
       value: "#ff0"
     },
     {
-      color: "black",
+      color: "gold",
       value: "#000"
     }
   ])
